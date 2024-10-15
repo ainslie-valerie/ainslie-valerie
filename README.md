@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💐 I'm currenting improving my HTML, CSS, Javascript and PHP
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: I'm in first year university student :)
+- ⚡ Fun fact: I'm a first year university student :)
 
 <!---
 ainslie-valerie/ainslie-valerie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
